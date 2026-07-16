@@ -1,4 +1,4 @@
-# AquaGuard ML - Water Leak Detection System
+ #Water Leak Detection System
 
 An intelligent water leak detection system using edge ML on ESP32 microcontrollers with multi-zone anomaly detection.
 
